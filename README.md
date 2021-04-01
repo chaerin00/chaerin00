@@ -2,9 +2,12 @@
 
 [![Chaerin's github stats](https://github-readme-stats.vercel.app/api?username=chaerin00)](https://github.com/chaerin00/github-readme-stats)
 
-### I'm working with
+<p align="center"> Techs that I've used at least once </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1173B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
