@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Chaerin An 👋
+
+[![Chaerin's github stats](https://github-readme-stats.vercel.app/api?username=chaerin00)](https://github.com/chaerin00/github-readme-stats)
 
 <!--
 **chaerin00/chaerin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
