@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
 </p>
+<br/>
+
+📝[My Blog](https://velog.io/@chaerin00)
 
 <!--
 **chaerin00/chaerin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
