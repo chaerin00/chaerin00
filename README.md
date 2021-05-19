@@ -1,6 +1,6 @@
 ### Hi I'm Chaerin An 👋
 
-![Chaerin's github stats](https://github-readme-stats.vercel.app/api?username=chaerin00&count_private=true)
+![Chaerin's github stats](https://github-readme-stats.vercel.app/api?username=chaerin00&count_private=true&hide=stars,issues)
 <br/>
 ## Techs that I've used at least once
 
