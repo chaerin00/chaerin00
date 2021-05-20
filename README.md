@@ -20,7 +20,7 @@
 </p>
 <br/>
 
-📝[Tech Blog](https://velog.io/@chaerin00)
+## 📝[Tech Blog](https://velog.io/@chaerin00)
 
 <!--
 **chaerin00/chaerin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
